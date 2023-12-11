@@ -1,16 +1,24 @@
 ### Hi there 👋
+1
 
-<!--
-**IlyaQARUBEL/IlyaQARUBEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Гитхаб https://github.com/IlyaQARUBEL
 
-Here are some ideas to get you started:
+2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JS Cypress https://github.com/IlyaQARUBEL/cypress.js
+
+3
+
+Сайт-визика на HTML + CSS   https://github.com/IlyaQARUBEL/cv
+4
+
+Бот на Python для генерации аббревиатур и терминов   Telegram: https://t.me/QAeasy_bot
+
+5
+
+Postman autotests   https://github.com/IlyaQARUBEL/python_autotests
+
+6
+
+Selenium + Python: https://github.com/IlyaQARUBEL/Selenium
+
